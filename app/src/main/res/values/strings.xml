@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Android ListView</string>
+    <string name="text_1">Android ListView</string>
+
+    <string name="btn_text_1">ListView - 1</string>
+    <string name="btn_text_2">ListView - 2</string>
+    <string name="btn_text_3">ListView - 3</string>
+
+
+    <string-array name="MedicineName">
+        <item name="medicine1">Napa</item>
+        <item name="medicine2">Ativan</item>
+        <item name="medicine3">Visco</item>
+        <item name="medicine4">ciproxin</item>
+        <item name="medicine5">Napa Extra</item>
+        <item name="medicine6">Amoxicillin</item>
+        <item name="medicine7">Ativan</item>
+        <item name="medicine8">Qualaquin</item>
+        <item name="medicine9">Questran</item>
+        <item name="medicine10">Quetiapine</item>
+
+    </string-array>
+
+</resources>
